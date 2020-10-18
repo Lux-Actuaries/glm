@@ -1,2 +1,2 @@
 # GLMs
-A basic GLM on motor claims data
+A basic GLM using motor claims data
